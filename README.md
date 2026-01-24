@@ -9,7 +9,7 @@ The app is fully offline, privacy-first, and built to feel like a native iOS acc
 
 ## Key Features
 - **Real-Time Vision Simulation**
-  - Myopia (nearsightedness) simulation using distance-based blur
+  - Eye Diseases simulation using distance-based blur
   - Adjustable severity for experiential learning
   - Optional eye floater simulation for realism
 
