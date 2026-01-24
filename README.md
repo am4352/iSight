@@ -49,6 +49,6 @@ The app is fully offline, privacy-first, and built to feel like a native iOS acc
 ---
 
 ## Running the Project
-1. Clone the repository:
+1. Clone the repository in XCode:
    ```bash
    git clone https://github.com/am4352/iSight/tree/anuj
